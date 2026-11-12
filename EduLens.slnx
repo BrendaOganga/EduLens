@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EduLens.Api/EduLens.Api.csproj" />
+  <Project Path="EduLens.Application/EduLens.Application.csproj" />
+  <Project Path="EduLens.Domain/EduLens.Domain.csproj" />
+  <Project Path="EduLens.Infrastructure/EduLens.Infrastructure.csproj" />
+</Solution>
